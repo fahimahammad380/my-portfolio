@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.half-width img{
+    width: 90%;
+    padding-right: 10%;
+}
+#head_first_half{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+#biopraphy-second-half{
+    margin-top: 10%;
+}
+.button{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,red, rgb(197, 119, 119));
+}
+.head{
+    display: flex;
+    background-image: url("images/header-bg.png");
+}
+.biography{
+    display: flex;
+    background-image: url("images/biography-bg.png");
+}
+.latest-work img{
+    width: 20%;
+    display: inline-block;
+    margin-right: 2%;
+}
+.latest-work{
+    padding-right: 0%;
+    padding-top: 5%;
+    text-align: center;
+    background-image: url("images/latest-work-bg.png");
+    height: 500px;
+    width: 100%;
+}
+.client{
+    text-align: center;
+    width: 40%;
+    padding-left: 30%;
+
+}
+
+.bottom-btn{
+        color: black;
+        padding: 30px;
+        border-radius: 5px;
+        text-decoration: none;
+        width: 250px;
+        height: 50px;
+        background-image: linear-gradient(45deg,red, rgb(197, 119, 119));
+        
+}
